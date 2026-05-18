@@ -10,4 +10,4 @@ Also can make random pauses if you want it to.
 It can pretend to do research by pressing control tab and scrolling down.
 I update it sometimes.
 
-definitely for educational purposes only.
+Basically it's use is cuz like goguardian and stuff can see you type so yea.
